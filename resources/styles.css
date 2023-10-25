@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Roboto+Condensed&family=Roboto:wght@400;700&display=swap');
+
+*{
+    font-size: 16px;
+}
+
+.container{
+    width: 80%;
+    background-color: #F5F5F5;
+    color: #333333;
+    text-align: center;
+    margin: 1.2rem auto;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    padding-left: auto;
+    padding-right: auto;
+
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 1.2rem auto;
+}
+
+figure{
+    margin: 1.2rem auto;
+}
+
+h1{
+    font-family: "Cinzel Decorative", sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-bottom: 0.8rem;
+    
+}
+
+h2{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.ada-image{
+    max-width: 30%;
+    height: auto;
+    border: 0.3rem solid #3f3f3f;
+    margin-bottom: 0.8rem;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.timeline{
+    text-align: justify;
+}
+
+.timeline li{
+    margin: 1rem;
+}
